@@ -1,0 +1,8 @@
+p {
+    font-size: 40px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.example1 {
+    text-shadow: 1px 1px 3px #888;
+}
